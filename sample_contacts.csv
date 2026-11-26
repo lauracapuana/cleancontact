@@ -1,0 +1,6 @@
+First Name,Last Name,Phone,Email,Notes
+Alex,Morgan,(555) 234-5678,alex.morgan@example.com,Duplicate row #1
+Alex,Morgan,555-234-5678,alex.morgan@example.com,Duplicate with different phone formatting
+Jordan,Taylor,555.876.5432,jordan.taylor@example.org,Dot-separated phone number
+Casey,Brooks,5553219876,casey.brooks@example.net,Unformatted 10-digit number
+Test,Contact,555-555-5555,test@example.com,Sample filter test row
